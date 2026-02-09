@@ -14,6 +14,11 @@ An AI-powered web application built on Cloudflare AI app assignment that allows 
 - Basic conversation memory (last 5 messages)
 - Deployed on Cloudflare
 
+
+## Demo
+<img width="3420" height="856" alt="image" src="https://github.com/user-attachments/assets/3e6d8764-ea86-48a8-b51a-d61a06717d24" />
+
+
 ## Running Locally
 1. Install Wrangler: `npm install -g wrangler`
 2. Clone the repo

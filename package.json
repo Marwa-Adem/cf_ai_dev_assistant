@@ -1,0 +1,15 @@
+{
+  "name": "cf_ai_dev_assistant",
+  "version": "1.0.0",
+  "description": "An AI-powered web application built on Cloudflare AI app assignment that allows users to chat with a developer assistant AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^4.63.0"
+  }
+}

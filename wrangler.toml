@@ -1,0 +1,6 @@
+name = "cf-ai-dev-assistant"
+main = "worker/index.js"
+compatibility_date = "2026-01-01"
+
+[ai]
+binding = "AI"

@@ -1,6 +1,7 @@
 # Cloudflare AI Developer Assistant
 
-An AI-powered web application built on Cloudflare AI app assignment that allows users to chat with a developer assistant AI.
+An AI-powered web application built as part of the Cloudflare AI app assignment, allowing users to chat with a developer-focused AI assistant. The app uses Cloudflare Workers and LLaMA to provide real-time responses and maintains short-term conversation memory.
+
 
 ## Tech Stack
 - Cloudflare Workers  
